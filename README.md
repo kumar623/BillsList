@@ -8,7 +8,7 @@ Login and Sign up page
 ![Screenshot 2023-02-14 at 5 26 00 PM](https://user-images.githubusercontent.com/37290193/218813361-983f29ef-edc2-4d7f-9f47-c1d0576dcba6.png)
 ![Screenshot 2023-02-14 at 5 26 07 PM](https://user-images.githubusercontent.com/37290193/218813368-29ee9dde-4b9b-47b2-9b6c-a5310b934518.png)
 
-This is a HOme page where all upcomming weekly and montly bills come be seen
+This is a Home page where all upcomming weekly and montly bills come be seen
 
 ![Screenshot 2023-02-14 at 5 25 22 PM](https://user-images.githubusercontent.com/37290193/218813530-17c09914-c5b7-4c5b-ad74-be9fed6eedc0.png)
 
