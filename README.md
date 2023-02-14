@@ -8,10 +8,13 @@ Login and Sign up page
 ![Screenshot 2023-02-14 at 5 26 00 PM](https://user-images.githubusercontent.com/37290193/218813361-983f29ef-edc2-4d7f-9f47-c1d0576dcba6.png)
 ![Screenshot 2023-02-14 at 5 26 07 PM](https://user-images.githubusercontent.com/37290193/218813368-29ee9dde-4b9b-47b2-9b6c-a5310b934518.png)
 
-This is a HOme page where all upcomming weekly and montly bills come be seen![Screenshot 2023-02-14 at 5 25 22 PM](https://user-images.githubusercontent.com/37290193/218813530-17c09914-c5b7-4c5b-ad74-be9fed6eedc0.png)
+This is a HOme page where all upcomming weekly and montly bills come be seen
+
+![Screenshot 2023-02-14 at 5 25 22 PM](https://user-images.githubusercontent.com/37290193/218813530-17c09914-c5b7-4c5b-ad74-be9fed6eedc0.png)
 
 
 dashboard is a view for all bills , they are existing bills , not upcomming bills, we can delete or also create new bill(top right corner)
+
 ![Screenshot 2023-02-14 at 5 25 42 PM](https://user-images.githubusercontent.com/37290193/218813663-86fcf253-14f5-48f2-8992-c015ccc5a163.png)
 ![Screenshot 2023-02-14 at 5 26 21 PM](https://user-images.githubusercontent.com/37290193/218813775-1bfb63a1-f645-48d8-b64b-869a79c09ba5.png)
 
