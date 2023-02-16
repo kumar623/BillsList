@@ -1,4 +1,4 @@
-# BillsList
+# BillsRemainder
 This app provides a simple and user-friendly interface for managing payments and bills. Users can sign up and log in to their account using Firebase, allowing for secure and convenient storage of their information. The home page provides an overview of all weekly and monthly payments and bills, which are retrieved from the Firebase Cloud. Users can also view, create, and delete bills on the next page. Finally, a profile page allows users to see their account information, including their username, and sign out of the app when they are finished. This app provides a simple and efficient solution for keeping track of financial information.
 
 https://user-images.githubusercontent.com/37290193/218812995-f2e68012-157d-49c9-888a-0de015716ab3.mp4
